@@ -1,0 +1,2 @@
+Bienvenido 
+Este es un ejemplo de lectura de fichero de forma sincrona y asíncrona

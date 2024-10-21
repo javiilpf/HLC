@@ -1,0 +1,13 @@
+{
+    "name": "ficheros",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts":{
+        "start": "node main.js",
+        "test": "echo \"error: no test specified\"&& exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+    
+}
